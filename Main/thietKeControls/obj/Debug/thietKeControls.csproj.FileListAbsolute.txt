@@ -1,0 +1,6 @@
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\bin\Debug\thietKeControls.dll
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\bin\Debug\thietKeControls.pdb
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\obj\Debug\thietKeControls.dll
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\obj\Debug\thietKeControls.pdb
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\obj\Debug\thietKeControls.csproj.AssemblyReference.cache
+D:\Hufi\Nam 4 hk1\PTPM\DoAnCuoiKi\QL-KTX\Main\thietKeControls\obj\Debug\thietKeControls.csproj.CoreCompileInputs.cache

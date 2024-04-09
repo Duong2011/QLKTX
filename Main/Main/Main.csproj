@@ -33,13 +33,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Aspose.Words">
-      <HintPath>D:\file_BT_TH_HQTCSDL\Máy tính\XuatBaoCaoWordBangMailMergeAspose-main\Dll\Aspose.Words.dll</HintPath>
+      <HintPath>DLL\Aspose.Words.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI">
       <HintPath>..\thuVienControls\bin\Debug\Guna.UI.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI2">
-      <HintPath>..\thuVienControls\bin\Debug\Guna.UI2.dll</HintPath>
+      <HintPath>..\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="s, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

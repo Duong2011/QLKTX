@@ -25,7 +25,7 @@ namespace thuVienControls.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-PTQBDTF;Initial Catalog=qlktx;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-POLM6SU;Initial Catalog=qlktx;Integrated Security=True")]
         public string LTWNCConn {
             get {
                 return ((string)(this["LTWNCConn"]));
@@ -35,7 +35,7 @@ namespace thuVienControls.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-PTQBDTF;Initial Catalog=qlktx;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-POLM6SU;Initial Catalog=qlktx;Integrated Security=True")]
         public string qlktxConnectionString {
             get {
                 return ((string)(this["qlktxConnectionString"]));

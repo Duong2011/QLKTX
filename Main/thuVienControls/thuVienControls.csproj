@@ -48,17 +48,17 @@
       <HintPath>D:\file_BT_TH_HQTCSDL\Máy tính\QL-KTX\Main\thuVienControls\bin\Debug\Accord.Statistics.dll</HintPath>
     </Reference>
     <Reference Include="Aspose.Words">
-      <HintPath>D:\file_BT_TH_HQTCSDL\Máy tính\XuatBaoCaoWordBangMailMergeAspose-main\Dll\Aspose.Words.dll</HintPath>
+      <HintPath>..\Main\DLL\Aspose.Words.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto">
       <HintPath>D:\file_BT_TH_HQTCSDL\Máy tính\QL-KTX\Main\thuVienControls\bin\Debug\BouncyCastle.Crypto.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI">
-      <HintPath>..\..\..\..\..\Máy tính\Tải Về\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\framework\Guna.UI.dll</HintPath>
+      <HintPath>..\Main\DLL\Guna.UI.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI2, Version=2.0.4.5, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Máy tính\Tải Về\Guna.UI2.dll</HintPath>
+      <HintPath>..\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll</HintPath>

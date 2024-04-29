@@ -18,7 +18,7 @@
 | Web | Chức năng |
 | ------ | ------ |
 |     | Đăng ký online  |
-|     | Đăng nhập có xác thực 2 lớp  |
+|     | Đăng nhập có xác thực 2 lớp,role  |
 |     | Báo cáo sự cố điện nước  |
 |     | Xem phòng, xem hóa đơn...  |
 |     | Đồng bộ dữ liệu dữ web và app  |
